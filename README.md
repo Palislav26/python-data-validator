@@ -16,7 +16,11 @@ A browser-based CSV data validation app built with Python, pandas, and Streamlit
 - pandas
 - Streamlit
 
+## Testing
+- test_data.CSV
+
 ## How to run locally
 ```bash
 pip install -r requirements.txt
 streamlit run DataValidator.py
+
