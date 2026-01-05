@@ -1,4 +1,4 @@
-# Python Data Validation Tool
+# Pandas Data Validator
 
 A browser-based CSV data validation app built with Python, pandas, and Streamlit.
 
