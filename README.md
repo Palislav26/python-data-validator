@@ -24,3 +24,5 @@ A browser-based CSV data validation app built with Python, pandas, and Streamlit
 pip install -r requirements.txt
 streamlit run DataValidator.py
 
+## Link to live app
+https://python-data-validator-hmmhfveytqqjnw3mzqqbfa.streamlit.app
